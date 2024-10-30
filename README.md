@@ -1,4 +1,4 @@
-#Aspiring Data Analyst
+# Aspiring Data Analyst
 
 ### Education
 Bachelor of Science in Information of Sciences, Data Information Management and Analytics
