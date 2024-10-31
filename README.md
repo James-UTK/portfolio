@@ -1,5 +1,7 @@
 # Aspiring Data Analyst
 
+<img src="assets/img/headshot.jpg" alt="James Helton" width="100">
+
 #### Technical Skills: Python, SQL, Tableau
 
 ## Education
