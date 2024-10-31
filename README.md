@@ -1,5 +1,3 @@
-# James Helton
-
 ## Aspiring Data Analyst
 
 #### Technical Skills: Python, SQL, Tableau
