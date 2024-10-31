@@ -5,6 +5,16 @@
 ## Education
 Bachelor of Science in Information of Sciences | Data Information Management and Analytics | The University of Tennessee Knoxville
 
+## About me
+
+**Student**: Veteran student at the University of Tennessee Knoxville
+
+**Goals**: Committed to engaging in collaborative research projects, successfully graduating, and securing a position in the data analytics field.
+
+**Vision**: Aspiring to leverage analytical skills for impactful research and development initiatives that drive innovation and efficiency.
+
+**Skills**: Proficient in Python, SQL, Microsoft Excel, Microsoft Access, and Tableau, with a strong foundation in data analysis and visualization techniques.
+
 ## Projects
 ### Customer Tracking System
 Developed a customer tracking system for an internet/cable provider, designed to manage customer profiles, service locations, equipment, and billing. users can add and remove customers, manage services, update payments, and view overdue accounts. Built with Python and SQLite, this application aims to streamline customer management and billing for the company.
