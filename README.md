@@ -1,17 +1,26 @@
 ## Welcome! I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation.
 
-#### Technical Skills: Python, SQL, Tableau
+#### Technical Skills  
+- **Programming Languages**: Python, SQL  
+- **Data Visualization Tools**: Tableau  
+- **Additional Tools**: Microsoft Excel, Microsoft Access  
 
-## Education
-Bachelor of Science in Information of Sciences | Data Information Management and Analytics | The University of Tennessee Knoxville
+## Education  
+**Bachelor of Science in Information Sciences**  
+- *Specialization*: Data Information Management and Analytics  
+- *Institution*: The University of Tennessee, Knoxville  
 
-## About me
+## About Me  
 
-**Student**: Veteran student at the University of Tennessee Knoxville
+**Student**: Veteran student at the University of Tennessee, Knoxville  
 
-**Goals**: Committed to engaging in collaborative research projects, successfully graduating, and securing a position in the data analytics field.
+**Goals**:  
+- Engaging in collaborative research projects  
+- Successfully graduating  
+- Securing a position in the data analytics field  
 
-**Vision**: Aspiring to leverage analytical skills for impactful research and development initiatives that drive innovation and efficiency.
+**Vision**:  
+Aspiring to leverage analytical skills for impactful research and development initiatives that drive innovation and efficiency.
 
 **Skills**: Proficient in Python, SQL, Microsoft Excel, Microsoft Access, and Tableau, with a strong foundation in data analysis and visualization techniques.
 
