@@ -1,7 +1,7 @@
 # James Helton
 
 ## Welcome!
-I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation. My approach is results-driven, blending analytical rigor with creativity to derive meaningful insights.
+I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation.
 
 ---
 
@@ -32,24 +32,7 @@ Aspiring to leverage analytical skills for impactful research and development in
 
 ---
 
-### **Skills**  
-Proficient in Python, SQL, Microsoft Excel, Microsoft Access, and Tableau, with a strong foundation in data analysis and visualization techniques.
-
----
-
 ## Projects  
-
-### **Customer Tracking System**  
-![Customer Tracking System](assets/img/project1.png)  
-- **Overview**: Developed a customer tracking system for an internet/cable provider to manage customer profiles, service locations, equipment, and billing.  
-- **Tools/Technologies Used**: Python, SQLite  
-- **Key Features**:  
-  - Manage customer accounts, including adding and removing customers, managing services, and updating payments.  
-  - Automates overdue account tracking for efficient billing workflows.  
-  - Designed an intuitive and streamlined database structure.  
-- **Reflection**: *This project enhanced my database design and Python programming skills while solving a real-world business need.*
-
----
 
 ### **Digital Monopoly Game**  
 ![Monopoly Game](assets/img/project2.jpg)  
@@ -60,6 +43,18 @@ Proficient in Python, SQL, Microsoft Excel, Microsoft Access, and Tableau, with 
   - Normalized database design ensures efficient handling of relationships between players, properties, and spaces.  
   - Game logic automates key operations, such as property ownership changes and player elimination.  
 - **Reflection**: *This project honed my ability to integrate database normalization with object-oriented design principles, preparing me for complex system development.*
+
+---
+
+### **Customer Tracking System**  
+![Customer Tracking System](assets/img/project1.png)  
+- **Overview**: Developed a customer tracking system for an internet/cable provider to manage customer profiles, service locations, equipment, and billing.  
+- **Tools/Technologies Used**: Python, SQLite  
+- **Key Features**:  
+  - Manage customer accounts, including adding and removing customers, managing services, and updating payments.  
+  - Automates overdue account tracking for efficient billing workflows.  
+  - Designed an intuitive and streamlined database structure.  
+- **Reflection**: *This project enhanced my database design and Python programming skills while solving a real-world business need.*
 
 ---
 
