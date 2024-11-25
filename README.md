@@ -1,7 +1,7 @@
 # James Helton
 
 ## Welcome!
-Welcome! I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation. My approach is results-driven, blending analytical rigor with creativity to derive meaningful insights.
+I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation. My approach is results-driven, blending analytical rigor with creativity to derive meaningful insights.
 
 ---
 
