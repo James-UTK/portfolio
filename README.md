@@ -1,4 +1,4 @@
-## Aspiring Data Analyst
+## Welcome! I’m James Helton, an aspiring data analyst with a strong foundation in Python, SQL, and Tableau. As a veteran and student at the University of Tennessee, Knoxville, I’m passionate about leveraging data to solve complex problems and drive innovation.
 
 #### Technical Skills: Python, SQL, Tableau
 
