@@ -6,8 +6,8 @@ theme: jekyll-theme-minimal
 # Include custom CSS file for styling
 # Link to additional custom CSS file(s)
 css:
-  - /assets/css/style.css     # Existing theme CSS (if needed)
-  - /assets/css/custom.css    # Your custom CSS file
+  - assets/css/style.css     # Existing theme CSS (if needed)
+  - assets/css/custom.css    # Your custom CSS file
 
 # Other configurations...
 
