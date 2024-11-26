@@ -1,0 +1,55 @@
+/* Accent Color for Sidebar */
+.sidebar {
+    background-color: #FF6347;  /* Accent color (tomato red) */
+    color: white;               /* Change text color for readability */
+    padding: 15px;
+}
+
+/* Add border around the photo in the sidebar */
+.sidebar img {
+    border: 5px solid #FF6347;  /* Border color to match accent color */
+    border-radius: 50%;         /* Make photo round */
+}
+
+/* Accent Color for Links in Sidebar */
+.sidebar a {
+    color: #FF6347;   /* Accent color for links */
+}
+
+.sidebar a:hover {
+    color: #FFD700;   /* Golden color when hovering over links */
+}
+
+/* Make sure text is readable on sidebar background */
+.sidebar h2, .sidebar h3, .sidebar p {
+    color: white;
+}
+
+/* Accent Color for Headings on the Page */
+h1, h2, h3 {
+    color: #FF6347;  /* Accent color for headings */
+}
+
+/* Button and Link Accent Color */
+a {
+    color: #FF6347;  /* Accent color for all links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFD700;  /* Change color on hover */
+}
+
+/* Styling for other elements as needed */
+.button {
+    background-color: #FF6347;  /* Accent color for buttons */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #FFD700;  /* Golden color on hover */
+}
