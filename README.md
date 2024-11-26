@@ -39,11 +39,11 @@ Aspiring to leverage analytical skills for impactful research and development in
 - **Overview**: A digital adaptation of Monopoly, emphasizing object-oriented programming and database management.  
 - **Tools/Technologies Used**: Python, PostgreSQL  
 - **Key Features**:  
-  - Turn-based gameplay supports transactions like buying properties, paying rent, and handling bankruptcies.  
+  - Turn-based gameplay supporting transactions like buying properties, paying rent, and handling bankruptcies.  
   - Normalized database design ensures efficient handling of relationships between players, properties, and spaces.  
-  - Game logic automates key operations, such as property ownership changes and player elimination.  
-- **Reflection**: *This project honed my ability to integrate database normalization with object-oriented design principles, preparing me for complex system development.*
-
+  - Game logic automates key operations such as property ownership changes, player actions, and elimination upon bankruptcy.  
+- **Reflection**: *This project honed my ability to integrate database normalization with object-oriented design principles, preparing me for complex system development.*  
+- **View the Source Code**: [GitHub Repository](https://github.com/James-UTK/MonopolyGame.git)
 ---
 
 ### **Customer Tracking System**  
