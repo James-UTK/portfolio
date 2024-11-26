@@ -1,3 +1,11 @@
+# Basic site configuration
 title: James Helton
 logo: /assets/img/headshot.JPG
 theme: jekyll-theme-minimal
+
+# Include custom CSS file for styling
+css:
+  - assets/css/style.css   # Keep your existing style.css (if any)
+  - assets/css/custom.css   # Add this line to link the custom.css file
+
+# Other configurations...
